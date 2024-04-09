@@ -1,0 +1,72 @@
+Timestamp,Brand name of your laptop?,RAM size of your current laptop,Storage type,Storage (in GB),Processor,Clock speed,Dedicated GPU,Avg. Battery draining time(hours),weight(kgs),screen size,Ethernet port,Email Address
+11/14/2023 21:20:26,DELL,16 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,1.5 - 2,15.6,No,bluemoon777bluemoon@gmail.com
+11/5/2023 12:04:21,LENOVO,8 GB,HDD,512 GB,Intel,3.6 GHz,no,4,1.5 - 2,15.6,No,ec21b1031@iiitdm.ac.in
+11/5/2023 12:06:12,LENOVO,8 GB,SSD,256 GB,Intel,2.4 GHz,yes,6,2 - 3,15.6,yes,
+11/9/2023 16:10:11,DELL,8 GB,SSD,512 GB,Intel,2.4 GHz,no,4,1.5 - 2,15.6,No,ec21b1033@iiitdm.ac.in
+11/9/2023 16:03:19,HP,8 GB,SSD,256 GB,Intel,2.4 GHz,yes,4,1.5 - 2,15.6,yes,
+11/5/2023 12:16:00,HP,16 GB,HDD,512 GB,Ryzen,3.6 GHz,,4,<1.5,14,No,me21b1029@iiitdm.ac.in
+11/5/2023 12:16:08,ACER,8 GB,SSD,1 TB,Intel,2.4 GHz,yes,6,<1.5,14,yes,
+11/5/2023 12:18:37,LENOVO,8 GB,SSD,512 GB,Intel,2.4 GHz,no,<2,<1.5,15.6,No,
+11/5/2023 12:20:11,HP,16 GB,SSD,512 GB,Intel,2.4 GHz,yes,6,<1.5,14,No,cs21b105@iiitdm.ac.in
+11/5/2023 12:21:30,LENOVO,8 GB,SSD,512 GB,Intel,2.4 GHz,no,6,1.5 - 2,15.6,No,me21b2016@iiitdm.ac.in
+11/5/2023 12:21:59,HP,8 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,1.5 - 2,14,No,me21b2030@iiitdm.ac.in
+11/5/2023 12:22:53,HP,8 GB,SSD,512 GB,Intel,2.4 GHz,no,>8,1.5 - 2,14,yes,
+11/5/2023 12:23:17,HP,8 GB,SSD,256 GB,Intel,3.6 GHz,yes,4,1.5 - 2,15.6,yes,me21b2013@iiitdm.ac.in
+11/14/2023 21:53:26,DELL,8 GB,,,Intel,2.4 GHz,yes,4,1.5 - 2,14,No,
+11/5/2023 12:23:59,DELL,4 GB,SSD,1 TB,Intel,2.4 GHz,no,4,1.5 - 2,15.6,yes,
+11/5/2023 12:24:13,ASUS,16 GB,SSD,512 GB,Ryzen,> 4 GHz,yes,4,2 - 3,17,yes,me21b2046@iiitdm.ac.in
+11/5/2023 12:25:59,APPLE,16 GB,SSD,256 GB,Apple processor,3.6 GHz,yes,>8,<1.5,13.3,No,
+11/14/2023 22:17:56,DELL,8 GB,SSD,512 GB,Ryzen,2.4 GHz,no,>8,<1.5,13.3,No,ec21b1070@iiitdm.ac.in
+11/14/2023 21:33:47,HP,8 GB,SSD,512 GB,Intel,2.4 GHz,no,<2,<1.5,15.6,No,ec21b1069@iiitdm.ac.in
+11/14/2023 22:09:39,DELL,8 GB,SSD,512 GB,Intel,2.4 GHz,no,<2,2 - 3,13.3,yes,vishnuvuppala6349@gmail.com
+11/5/2023 12:35:04,LENOVO,16 GB,SSD,512 GB,Intel,2.4 GHz,yes,>8,<1.5,13.3,No,
+11/5/2023 12:36:56,ASUS,8 GB,SSD,512 GB,Intel,2.4 GHz,yes,<2,1.5 - 2,15.6,yes,cs21b1017@iiitdm.ac.in
+11/5/2023 12:46:36,LENOVO,16 GB,SSD,1 TB,Intel,2.4 GHz,no,4,1.5 - 2,15.6,yes,
+11/5/2023 12:58:52,DELL,4 GB,HDD,512 GB,Intel,2.4 GHz,yes,6,1.5 - 2,15.6,yes,
+11/5/2023 13:03:11,LENOVO,8 GB,SSD,256 GB,Intel,2.4 GHz,yes,4,1.5 - 2,15.6,No,cs21b1015@iiitdm.ac.in
+11/5/2023 13:10:40,HP,8 GB,SSD,512 GB,Ryzen,2.4 GHz,yes,4,1.5 - 2,15.6,yes,
+11/5/2023 13:24:05,HP,8 GB,SSD,512 GB,Ryzen,2.4 GHz,yes,4,2 - 3,15.6,yes,
+11/5/2023 15:54:59,HP,16 GB,SSD,256 GB,Ryzen,3.6 GHz,yes,>8,<1.5,13.3,No,cs21b1021@iiitdm.ac.in
+11/6/2023 11:52:17,DELL,16 GB,SSD,512 GB,Intel,> 4 GHz,yes,<2,2 - 3,15.6,yes,
+11/6/2023 12:07:21,DELL,16 GB,SSD,1 TB,Intel,> 4 GHz,no,4,1.5 - 2,17,No,
+11/6/2023 12:08:23,DELL,16 GB,SSD,512 GB,Intel,> 4 GHz,no,4,<1.5,14,No,
+11/6/2023 13:59:12,Others,4 GB,SSD,512 GB,Intel,2.4 GHz,yes,6,<1.5,14,No,
+11/6/2023 19:14:36,ACER,16 GB,SSD,512 GB,Intel,3.6 GHz,yes,4,2 - 3,15.6,yes,ec21b1076@iiitdm.ac.in
+11/8/2023 10:46:28,ASUS,8 GB,SSD,512 GB,Intel,3.6 GHz,no,4,1.5 - 2,14,No,me21b1039@iiitdm.ac.in
+11/8/2023 10:47:43,LENOVO,8 GB,SSD,512 GB,Ryzen,3.6 GHz,no,4,<1.5,15.6,No,
+11/8/2023 10:49:17,HP,16 GB,SSD,512 GB,Ryzen,3.6 GHz,yes,<2,2 - 3,15.6,yes,
+11/8/2023 10:51:09,Others,16 GB,SSD,512 GB,Intel,> 4 GHz,yes,<2,1.5 - 2,15.6,yes,
+11/8/2023 10:52:47,ASUS,8 GB,SSD,512 GB,Intel,2.4 GHz,yes,<2,1.5 - 2,15.6,yes,cs21b2042@iiitdm.ac.in
+11/8/2023 10:55:26,APPLE,8 GB,SSD,256 GB,Apple processor,3.6 GHz,no,>8,<1.5,13.3,No,
+11/8/2023 10:57:15,ASUS,8 GB,SSD and HDD,1 TB,Ryzen,2.4 GHz,no,4,1.5 - 2,15.6,No,
+11/8/2023 10:58:34,DELL,8 GB,SSD,256 GB,Intel,3.6 GHz,yes,<2,2 - 3,15.6,yes,ec21b1094@iiitdm.ac.in
+11/8/2023 10:58:41,APPLE,8 GB,SSD,256 GB,Apple processor,3.6 GHz,no,>8,<1.5,13.3,No,
+11/8/2023 10:59:00,APPLE,8 GB,SSD,1 TB,Apple processor,> 4 GHz,no,>8,<1.5,13.3,No,me21b2025@iiitdm.ac.in
+11/8/2023 10:59:25,Others,8 GB,SSD and HDD,1 TB,Ryzen,2.4 GHz,no,<2,<1.5,14,No,
+11/8/2023 10:59:48,LENOVO,16 GB,HDD,1 TB,Ryzen,3.6 GHz,yes,<2,2 - 3,17,yes,
+11/8/2023 11:00:15,ACER,8 GB,SSD,256 GB,Intel,> 4 GHz,yes,6,2 - 3,15.6,yes,
+11/8/2023 11:00:53,DELL,16 GB,HDD,1 TB,Intel,3.6 GHz,no,4,1.5 - 2,14,No,me21b1022@iiitdm.ac.in
+11/8/2023 11:01:17,ACER,8 GB,SSD,512 GB,Ryzen,<2.2 GHz,no,<2,2 - 3,15.6,yes,ec21b1084@iiitdm.ac.in
+11/8/2023 11:01:32,ASUS,16 GB,SSD,512 GB,Ryzen,> 4 GHz,yes,4,2 - 3,15.6,yes,
+11/8/2023 11:03:37,HP,8 GB,SSD and HDD,1 TB,Intel,2.4 GHz,no,4,2 - 3,15.6,yes,
+11/8/2023 11:03:59,DELL,8 GB,SSD,512 GB,Intel,2.4 GHz,no,4,1.5 - 2,15.6,No,ec21b1075@iiitdm.ac.in
+11/8/2023 11:05:20,Others,8 GB,HDD,2 TB,Ryzen,2.4 GHz,yes,4,2 - 3,15.6,yes,ec21b1042@iiitdm.ac.in
+11/8/2023 11:15:04,LENOVO,4 GB,HDD,512 GB,Intel,<2.2 GHz,no,<2,>3,15.6,yes,
+11/8/2023 11:15:44,DELL,16 GB,SSD,512 GB,Ryzen,3.6 GHz,yes,4,1.5 - 2,15.6,No,
+11/8/2023 11:16:13,HP,4 GB,SSD and HDD,256 GB,Intel,2.4 GHz,yes,<2,2 - 3,15.6,yes,
+11/8/2023 11:16:51,LENOVO,16 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,1.5 - 2,15.6,No,ec21b1067@iiitdm.ac.in
+11/8/2023 11:17:56,Others,8 GB,SSD,512 GB,Ryzen,3.6 GHz,yes,4,2 - 3,15.6,yes,me21b182@iiitdm.ac.in
+11/8/2023 11:19:17,ACER,16 GB,SSD,512 GB,Intel,3.6 GHz,no,6,1.5 - 2,15.6,yes,
+11/8/2023 11:20:31,Others,4 GB,HDD,256 GB,Ryzen,,no,6,2 - 3,15.6,No,
+11/8/2023 11:21:20,DELL,8 GB,SSD and HDD,512 GB,,,,6,2 - 3,14,No,
+11/8/2023 22:33:35,DELL,8 GB,SSD and HDD,1 TB,Intel,> 4 GHz,yes,4,<1.5,14,yes,
+11/9/2023 15:55:26,HP,16 GB,SSD and HDD,256 GB,Intel,3.6 GHz,yes,4,1.5 - 2,15.6,yes,ec21b1105@iiitdm.ac.in
+11/9/2023 17:52:55,ASUS,16 GB,SSD,512 GB,Intel,3.6 GHz,yes,4,<1.5,14,No,cs22b1058@iiitdm.ac.in
+11/9/2023 17:55:17,ACER,8 GB,SSD,512 GB,Intel,> 4 GHz,yes,<2,2 - 3,15.6,yes,ec22b1071@iiitdm.ac.in
+11/10/2023 13:35:28,HP,8 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,1.5 - 2,13.3,No,ec21b1092@iiitdm.ac.in
+11/11/2023 15:48:54,Others,32 GB,SSD,256 GB,Intel,3.6 GHz,yes,<2,1.5 - 2,15.6,yes,me21b1013@iiitdm.ac.in
+11/14/2023 21:23:53,DELL,16 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,1.5 - 2,15.6,No,ec21b1106@iiitdm.ac.in
+11/14/2023 21:28:18,DELL,16 GB,SSD,512 GB,Intel,,,6,1.5 - 2,15.6,No,anilkumar.tenali194@gmail.com
+11/14/2023 21:30:08,Others,4 GB,SSD,512 GB,Intel,2.4 GHz,yes,4,<1.5,14,No,ec21b1101@iiitdm.ac.in
+11/14/2023 21:55:53,Others,32 GB,SSD,2 TB,Other,> 4 GHz,yes,,,,,obsoletefire732@gmail.com
+11/14/2023 22:03:30,HP,32 GB,SSD,512 GB,Intel,3.6 GHz,no,,,,,ec21b1087@iiitdm.ac.in
